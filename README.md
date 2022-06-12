@@ -12,7 +12,7 @@ General Informations:
 * ✉️  You can contact me at [atanin.kafasinin.ici@gmail.com](mailto:atanin.kafasinin.ici@gmail.com) 
 * 🚀  I'm currently working on [Eurus Chat Bot](http://twitter.com/chateurus) 
 * 🧠  I'm learning Swift and GoLang 
-* 🤝  I'm open to collaborating on AI, Automation, Blockchain & Web project. If you interested in with these and you have projects about what i mentioned about connect with me. I'll glad to be part of great projects. 
+* 🤝  I'm open to collaborating on AI, Automation, Blockchain & Web projects. If you interested in with these and you have projects about what i mentioned about connect with me. I'll glad to be part of great projects. 
 *  ⚜  Anythings else... Oh i have a secret and you shouldn't talk about to anyone. I am secretly Iron Man. Ahaha just kidding. Thank you for your time dude.
 
 ### My Follower Counter:
