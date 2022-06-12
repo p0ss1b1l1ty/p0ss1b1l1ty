@@ -1,7 +1,9 @@
 Hi 👋 My name is Ekin Ata Angın aka P0SS1B1L1TY
 ===============================================  
 Back-End & Front-End Developer 
-------------------------------  
+------------------------------
+(I'm not interested in cyber security.)
+  
 📒✏️ About Me! With Little Paragraph...
 ------------------------------  
 I've been coding 5 years and i am still learning. I started coding with big dreams and i am still developing myself to reach my goals. You can learn more things about me and my projects at my portfolio.  
