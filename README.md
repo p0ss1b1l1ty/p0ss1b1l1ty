@@ -4,6 +4,7 @@ Hi 👋 My name is Ekin Ata Angın aka P0SS1B1L1TY
 
 ⚙ Back-End & Front-End Developer 
 ------------------------------
+Well... Why I am talking too much? I am just Full Stack Developer. I have too many interests in software engineering area.
 (I'm not interested in cyber security.)
   
 📒✏️ About Me! With Little Paragraph...
